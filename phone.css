@@ -1,0 +1,55 @@
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a {
+    padding: 4px 5px;
+
+}
+/* #home::before {
+    width: 350px;
+} */
+#navbar::before {
+    margin-top: 78px;
+    width: 500%;
+}
+#home::before{
+    height: 400px;
+    width: 350%;
+    }
+/* .h-primary
+{
+    font-size: 1rem;
+    /* margin-top: 44px;
+    margin-bottom: 15px;
+    padding: 10px; */
+
+/* }
+#home p{
+
+    font-size: 1rem;
+} 
+    padding: 5px 20px; */
+
+#maintag
+{
+    margin-top: 10px;
+    font-size: 20px;
+    width: 350px;
+}
+#home p{
+    font-size:13px ;
+    text-align:left ;
+    width: 369px;
+    margin-top: 10px;
+
+}
+#services
+{
+   
+    flex-wrap: wrap;
+}  
+/* #clients
+{
+    width: 120%;
+
+} */
